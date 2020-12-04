@@ -8,9 +8,8 @@ namespace test1
 {
     public class Feature1
     {
-        public int Add()
+        public int Add(int x1, int x2)
         {
-            int x1 = 1, x2 = 1;
             return x1 + x2;
         }
     }
