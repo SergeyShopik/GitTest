@@ -15,6 +15,8 @@ namespace test1
             //code added in VS
 
             Feature1 feature = new Feature1();
+
+            //calling feature2...
             
             //calling feature3...
         }
